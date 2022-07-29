@@ -18,7 +18,6 @@ public class StringBasics {
 		boolean equals = surname.equals("java");
 		boolean equalignore = surname.equalsIgnoreCase("java");
 		
-		
 		System.out.println(equalignore);
 	}
 	
