@@ -11,7 +11,7 @@ public class Father{ // IS-A
 
 
 	public void getMyProperty() {
-		System.out.print("i have 5 crores");
+		System.out.print("i have commited first time ");
 		
 	}
 	
